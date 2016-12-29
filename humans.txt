@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
 	Istiari Widodo -- Leader -- @IstiariWidodo
+	ABD -- Member -- @ABCD
 
 # THANKS
 
