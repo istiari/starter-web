@@ -3,7 +3,7 @@
 This repository is a simple website for showing how Git and GitHub work together
 Adding oneline comment
 
-Adding after Rebase
+Adding for Stash
 
 ## Introduction
 
