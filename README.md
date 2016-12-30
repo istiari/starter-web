@@ -23,4 +23,4 @@ To contribute, please check work list nad proceed with the one you'd like it mos
 
 ### Copyright
 
-Git.Training 2016
+New One Git.Training 2016
